@@ -1,0 +1,2 @@
+# Fuzzy-based-intelligent-traffic-light-control-system
+Fuzzy-based intelligent traffic light control system, which accounts for vehicle heterogeneity by dynamically generating traffic light phase duration considering the real-time heterogeneous traffic load. The algorithm has three modes i.e. Fair Mode, Priority Mode, and Congestion Mode for smooth traffic. It automatically activates and switches to the best mode based on the real-traffic conditions.
